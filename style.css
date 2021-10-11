@@ -138,7 +138,7 @@
 		display: inline-block;
 		width: 25px;
 		height: 15px;
-		background: url(../images/off_on.png) no-repeat 0px 0px;
+		background: url(images/off_on.png) no-repeat 0px 0px;
 		cursor: pointer;
 	}
 	.search-engine-list::after {
